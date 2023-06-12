@@ -35,5 +35,11 @@ RECIPES = {
     'mediterranea': {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
-    }
+    },
+
+     'Veggie Pizza.': {
+        'ingredients': {'mozzarella': 3, 'oregano': 4, 'pepper': 4, 'onion': 3},
+        'price': 11,
+    },
+
 }
