@@ -42,5 +42,11 @@ RECIPES = {
         'price': 11,
         'sauce': 'tomato'
     },
+'bongo': {
+        'ingredients': {'basil': 4, 'onion': 5, 'mushroom': 2},
+        'price': 11,
+        'sauce': 'tomato'
 
 }
+
+  }
